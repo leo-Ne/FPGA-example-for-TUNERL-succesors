@@ -1,0 +1,4 @@
+set_pin_assignment	{ btn_n_rst }	{ LOCATION = M18; }
+set_pin_assignment	{ leds }	{ LOCATION = E5; }
+set_pin_assignment	{ start_test }	{ LOCATION = L18; }
+set_pin_assignment	{ sys_clk_25M }	{ LOCATION = P17; }
